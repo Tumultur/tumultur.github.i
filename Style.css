@@ -1,0 +1,36 @@
+body{
+    background-color: #011C40;
+    color: #d0d0d0;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+}
+header, footer{
+    text-align: center;
+}
+footer{
+    margin-top: 5px;
+}
+main{
+    width: fit-content;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    background: #0c274a;
+}
+a{
+    color: #ffffff
+}
+a:visited{
+    color: #707070
+}
+.Entry{
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background: #19375c;
+}
+.Entry p{
+    margin: 0;
+}
+.Entry:last-of-type{
+    margin-bottom: 0;
+}
