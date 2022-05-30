@@ -1,6 +1,6 @@
 import pandas as pd
 new = open("Entries.html", "w", encoding="utf8")
-df = pd.read_excel("Entry_Metadata.xlsx")
+df = pd.read_csv("Entry_Metadata.csv")
 link = df["Link"]
 title = df["Title"]
 eng = df["English"]
