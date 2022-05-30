@@ -10,7 +10,7 @@ footer{
     margin-top: 5px;
 }
 main{
-    width: fit-content;
+    width: max-content;
     margin: auto;
     padding: 20px;
     border-radius: 10px;
