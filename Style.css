@@ -22,15 +22,15 @@ a{
 a:visited{
     color: #707070
 }
-.Entry{
+.entry{
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 10px;
     background: #19375c;
 }
-.Entry p{
+.entry p{
     margin: 0;
 }
-.Entry:last-of-type{
+.entry:last-of-type{
     margin-bottom: 0;
 }
